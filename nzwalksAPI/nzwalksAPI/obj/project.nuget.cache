@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "13dVgUflbEASs7gXQ2ZteHnOuOVV9VdsZXmyaAZFkoLebN2BC1cIIzqSzWLqdEDZ3tZi07C7WUbOTQmt/BlxqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abdif\\OneDrive\\Desktop\\webAPI\\.NET-6-Web-API\\nzwalksAPI\\nzwalksAPI\\nzwalksAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdif\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abdif\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Abdif\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Abdif\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Abdif\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Abdif\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
